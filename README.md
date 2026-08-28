@@ -1,6 +1,6 @@
 # Fase 1 - Comprensión de los Datos
 
-Este repositorio contiene el desarrollo y análisis realizado para la **Fase 1 (Comprensión de los Datos)** de la materia Inteligencia Artificial / Ciencia de Datos.
+Este repositorio contiene el desarrollo y análisis realizado para la **Fase 1 (Comprensión de los Datos)** de la materia Desarrollo de Inteligencia Artificial.
 
 El trabajo se basa en el estudio de un dataset de ventas de videojuegos (1980-2016), aplicando limpieza de datos y análisis exploratorio (EDA) para identificar y clasificar variables, detectar patrones y obtener hallazgos preliminares.
 
